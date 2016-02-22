@@ -43,6 +43,11 @@
 - TCP/IP stack model
 - TCP connection model
 
+## 参考题目
+- [LRU Cache](https://leetcode.com/problems/lru-cache/)
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [3Sum](https://leetcode.com/problems/3sum/)
+
 ## 参考资料
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
