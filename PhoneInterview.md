@@ -49,6 +49,7 @@
 - [3Sum](https://leetcode.com/problems/3sum/)
 
 ## 参考资料
+- [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 - [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920/)
