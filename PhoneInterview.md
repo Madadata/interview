@@ -46,7 +46,7 @@
 ## 参考题目
 
 这里是我们技术测试的示例题目。我们希望你在30分钟左右的时间内，用你熟悉的语言写出完整的没有bug的代码，解决题目要求的问题。
-+ Algorithm
++ Algorithms
   - [LRU Cache](https://leetcode.com/problems/lru-cache/)
   - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   - [3Sum](https://leetcode.com/problems/3sum/)
