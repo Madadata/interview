@@ -44,11 +44,19 @@
 - TCP connection model
 
 ## 参考题目
-- [LRU Cache](https://leetcode.com/problems/lru-cache/)
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [3Sum](https://leetcode.com/problems/3sum/)
+
+这里是我们技术测试的示例题目。我们希望你在30分钟左右的时间内，用你熟悉的语言写出完整的没有bug的代码，解决题目要求的问题。
++ Algorithm
+  - [LRU Cache](https://leetcode.com/problems/lru-cache/)
+  - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+  - [3Sum](https://leetcode.com/problems/3sum/)
++ Database
+  - [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+  - [Rank Scores](https://leetcode.com/problems/rank-scores/)
 
 ## 参考资料
+
+这里是更多的参考资料，分别为Google、Facebook、Palantir和Leancloud等公司的面试建议，有很好的知识点梳理、示例题目以及这种面试形式的考察点解释。希望你仔细阅读，
 - [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
