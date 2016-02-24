@@ -30,13 +30,11 @@
 
 ## 我们的面试方法
 
-「马达数据」还处于快速发展的早期阶段，因而每一个员工的加入都尤其的重要。我们希望找到符合我们愿景的朋友一起共事，也希望加入的每一个员工都享受和公司一起成长的过程。我们的面试为两轮，标准的电话面试和试用工作项目面试。
+「马达数据」还处于快速发展的早期阶段，因而每一个员工的加入都尤其的重要。我们希望找到符合我们愿景的朋友一起共事，也希望加入的每一个员工都享受和公司一起成长的过程。
 
-我们首先将进行45分钟的在线标准技术面试，考察工程师的基本能力。具体的面试方法我们写在了[这里](https://github.com/Madadata/interview/blob/master/InterviewGuide/PhoneInterview.md)。
-
-当通过了标准技术面试，你将被邀请参加我们的「试用工作」面试，面试的方法我们写在了[这里](https://github.com/Madadata/interview/blob/master/InterviewGuide/ProjectInterview.md)。
-
-我们会在项目面试之后尽快与你联系。
+我们的面试为两轮，标准的电话面试和试用工作项目面试。
+- 我们首先将进行45分钟的在线标准技术面试，考察工程师的基本能力。具体的面试方法我们写在了[这里](https://github.com/Madadata/interview/blob/master/InterviewGuide/PhoneInterview.md)。
+- 当通过了标准技术面试，你将被邀请参加我们的「试用工作」面试，[这里](https://github.com/Madadata/interview/blob/master/InterviewGuide/ProjectInterview.md)是我们项目面试的具体介绍。
 
 ## 关于本项目
 
