@@ -17,4 +17,4 @@
 
 ## 寻求帮助
 
-你可以随时找我们寻求帮助。我们希望你把这次面试当成真正的工作，我们是你的同事。为了方便双方，这个 Github Repo 里面也会列出一些我们常用的技术栈的[资源列表]((https://github.com/Madadata/interview/tree/master/InterviewTips)，建议你在开始之前先仔细阅读。当然，Google，Stack Overflow 以及一些具体的论坛 都是很好的资源。
+你可以随时找我们寻求帮助。我们希望你把这次面试当成真正的工作，我们是你的同事。为了方便双方，这个 Github Repo 里面也会列出一些我们常用的技术栈的[资源列表](https://github.com/Madadata/interview/tree/master/InterviewTips)，建议你在开始之前先仔细阅读。当然，Google，Stack Overflow 以及一些具体的论坛 都是很好的资源。
