@@ -56,11 +56,13 @@
 
 ## 参考资料
 
-这里是更多的参考资料，分别为Google、Facebook、Palantir和Leancloud等公司的面试建议，有很好的知识点梳理、示例题目以及这种面试形式的考察点解释。希望你能仔细阅读。
+这里是更多的参考资料，分别为Google、Facebook、Palantir、Asana、Stripe和Leancloud等公司的面试建议，有很好的知识点梳理、示例题目以及这种面试形式的考察点解释。希望你能仔细阅读。
 - [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 - [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920/)
 - [Eng Interview Guide - Asana](https://asana.com/eng/interview-guide)
+- [Engineering Onsite - Stripe](https://stripe.com/jobs/engineering-onsite.pdf)
+- [How to pass a programming interivew - TripleByte](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
 - [Leancloud 技术面试指南](http://open.leancloud.cn/tech-interview-guide.html)
 
